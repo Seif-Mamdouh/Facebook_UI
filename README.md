@@ -1,16 +1,7 @@
-# project
+# Flutter Facebook Messanger UI
 
-A new Flutter project.
+<img width="450" alt="Facebook_UI" src="https://user-images.githubusercontent.com/55955558/139949229-0625294e-09fe-423f-bf25-86f61e394bac.png">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/55955558/139949241-2a555b71-8285-42fa-8b1b-7dd57a3740a8.mov
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
